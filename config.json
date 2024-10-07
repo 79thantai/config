@@ -1,1 +1,120 @@
-{"listGame" :["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "DiaBay", "Anubis"] }
+{
+  "App": {
+    "HOT_UPDATE_URL": "https://update.1000t.win/remote-assets/",
+    "HOT_UPDATE_URL_CHECK": "https://update.1000t.win/",
+    "HOST_MAINGAME": {
+        "host": "game.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_DICEGAME": {
+        "host": "dice.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_DICE_MD5_GAME": {
+        "host": "dicemd5.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_FORTUNE_MOUSE_GAME": {
+        "host": "candy.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_GAI_NHAY_GAME": {
+        "host": "natra.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_DAO_MO_GAME": {
+        "host": "frozen.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_MEO_BEO_GAME": {
+        "host": "anubis.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_DIA_BAY_GAME": {
+        "host": "diabay.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_KEO_NGOT_GAME": {
+        "host": "keongot.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_SICBO_GAME": {
+        "host": "sicbo.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_XOCDIA_GAME": {
+        "host": "xd.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_BAUCUA_GAME": {
+        "host": "baucua.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_LAC_TIEN_TY_GAME": {
+        "host": "ltt.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_GAME_DAU": {
+        "host": "hades.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_MINIPOKER_GAME": {
+        "host": "minipoker.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_EVENTSLOT_GAME": {
+        "host": "eventslot.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_POKER_GAME": {
+        "host": "poker.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_TLMN4_GAME": {
+        "host": "tlmn4.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_SAMSL_GAME": {
+        "host": "sam.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_TAI_XIU_LIVE_GAME": {
+        "host": "dicelive.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "HOST_DAO_KIM_CUONG_GAME": {
+        "host": "diamond.1000t.win",
+        "port": 443,
+        "ConnectionToken": ""
+    },
+    "API_LOGIN": "https://login.1000t.win",
+    "API_LOBBY": "https://lobby.1000t.win",
+    "API_AUTHEN": "https://authen.1000t.win",
+    "API_JACKPOT": "https://jackpot.1000t.win",
+    "API_GAME": "https://game.1000t.win",
+    "API_TX": "https://dice.1000t.win",
+    "API_EVENT_SLOT": "https://eventslot.1000t.win",
+    "API_EVENT_X2": "https://eventx2.1000t.win",
+    "API_DICE_LIVE": "https://u2.1000t.win"
+  }
+}
