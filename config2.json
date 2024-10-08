@@ -1,0 +1,131 @@
+{
+    "App": {
+      "HOT_UPDATE_URL": "https://populateactiveson.com/remote-assets",
+      "HOT_UPDATE_URL_CHECK": "https://populateactiveson.com",
+      "HOST_MAINGAME": {
+          "host": "game.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_DICEGAME": {
+          "host": "dice.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_DICE_MD5_GAME": {
+          "host": "dicemd5.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_FORTUNE_MOUSE_GAME": {
+          "host": "candy.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_GAI_NHAY_GAME": {
+          "host": "natra.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_DAO_MO_GAME": {
+          "host": "frozen.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_MEO_BEO_GAME": {
+          "host": "anubis.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_DIA_BAY_GAME": {
+          "host": "diabay.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_KEO_NGOT_GAME": {
+          "host": "keongot.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_SICBO_GAME": {
+          "host": "sicbo.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_XOCDIA_GAME": {
+          "host": "xd.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_BAUCUA_GAME": {
+          "host": "baucua.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_LAC_TIEN_TY_GAME": {
+          "host": "ltt.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_GAME_DAU": {
+          "host": "hades.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_MINIPOKER_GAME": {
+          "host": "minipoker.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_EVENTSLOT_GAME": {
+          "host": "eventslot.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_POKER_GAME": {
+          "host": "poker.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_TLMN4_GAME": {
+          "host": "tlmn4.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_SAMSL_GAME": {
+          "host": "sam.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_TAI_XIU_LIVE_GAME": {
+          "host": "dicelive.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "HOST_DAO_KIM_CUONG_GAME": {
+          "host": "diamond.79club.win",
+          "port": 443,
+          "ConnectionToken": ""
+      },
+      "API_LOGIN": "https://login.79club.win",
+      "API_LOBBY": "https://lobby.79club.win",
+      "API_AUTHEN": "https://authen.79club.win",
+      "API_JACKPOT": "https://jackpot.79club.win",
+      "API_GAME": "https://game.79club.win",
+      "API_TX": "https://dice.79club.win",
+      "API_EVENT_SLOT": "https://eventslot.79club.win",
+      "API_EVENT_X2": "https://eventx2.79club.win",
+      "API_DICE_LIVE": "https://u2.79club.win"
+    },
+    "ConfigListGame": {
+      "LIST_ALL": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
+      "LIST_SLOT": ["DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades"],
+      "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
+      "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
+      "LIST_SCENE": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Fishing"],
+      "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
+      "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
+      "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"]
+    }
+  }
+  
