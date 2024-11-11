@@ -1,17 +1,30 @@
 {
   "App": {
-    "WEB_HOST": "1000t.win",
-    "MOBILE_HOST": "1000t.win",
-    "HOT_UPDATE_URL": "https://update.1000t.win/remote-assets/",
-    "HOT_UPDATE_URL_CHECK": "https://update.1000t.win/"
+    "WEB_HOST": "79club.win",
+    "MOBILE_HOST": "myxiaomeibestbtc.com",
+    "HOT_UPDATE_URL": "https://populateactiveson.com/remote-assets/",
+    "HOT_UPDATE_URL_CHECK": "https://populateactiveson.com/",
+    "API_DICE_LIVE":"https://fireforuapidhl.net",
+    "LINK_CSKH":"https://secure.livechatinc.com/licence/18558558/v2/open_chat.cgi",
+    "LINK_TELE_GROUP":"https://t.me/congdongchat79club",
+    "LINK_TELE_NEWS" : "https://t.me/gamebaidaiphat79club",
+    "LINK_FB_FANPAGE" : "https://www.facebook.com/79Clubgamebaidaiphattai/",
+    "LINK_FB_GROUP" : "https://www.facebook.com/groups/980317323293414",
+    "HOST_GAME_DAU" : {
+      "host": "",
+      "subdomain": "shs",
+      "port": 443,
+      "ConnectionToken": ""
+    }
+
   },
   "ConfigListGame": {
-    "LIST_ALL": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades", "Fishing"],
-    "LIST_SLOT": ["DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "GaiNhay", "Plinko", "Meo", "Cleopatra", "Hades"],
+    "LIST_ALL": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "LacTienTy", "FortuneMouse", "MeoBeo", "Minipoker", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Sicbo", "Xocdia", "Baucua", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
+    "LIST_SLOT": ["Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker", "Fishing", "Plinko", "Meo", "Cleopatra", "Hades"],
     "LIST_CASINO": ["TaiXiuLive", "TaiXiuCanCua", "TaiXiuMD5", "Sicbo", "Xocdia", "Baucua"],
     "LIST_GAMEBAI": ["Poker", "SamSL", "TLMN4", "MauBinh"],
-    "LIST_SCENE": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Xocdia", "Baucua", "GaiNhay", "Poker", "SamSL", "TLMN4", "MauBinh", "Fishing"],
-    "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
+    "LIST_SCENE": ["TaiXiuLive", "Anubis", "Finn", "KeoNgot", "DiaBay", "DaoKimCuong", "DaoMo", "GaiNhay", "Sicbo", "Xocdia", "Baucua", "Poker", "SamSL", "TLMN4", "MauBinh"],
+    "SCENE_GAMES": ["TaiXiuLive", "DiaBay", "Anubis", "KeoNgot", "Finn", "DaoKimCuong", "DaoMo", "Sicbo", "Baucua", "GaiNhay", "Xocdia", "Poker", "TLMN4", "SamSL", "MauBinh"],
     "PREFAB_GAMES": ["TaiXiuCanCua", "TaiXiuMD5", "FortuneMouse", "MeoBeo", "LacTienTy", "Minipoker"],
     "WEBVIEW_GAMES": ["Plinko", "Meo", "Cleopatra", "Hades", "Fishing"]
   }
